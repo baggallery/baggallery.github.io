@@ -1,21 +1,26 @@
-Classic Leather Tote|images/abstract_browns.jpg|Elegant and spacious, perfect for everyday use.
+Coach Hampton Signature Purse|images/IMG_9608.jpg|Chic meets classic. Fabric logo with
+beige leather elegance.
 
-Canvas Shopper|images/coach_beige.jpg|Eco-friendly and roomy, great for shopping trips.
+Coach Ergo Hobo Monogram Bag|images/coach_ergo.jpg|Sleek and timeless, hobo monogram
+style.
 
-Elegant Clutch|images/colour_checkers.jpg|Sleek and refined, perfect for formal occasions.
+Goyard Goyardine Saint Louis PM Tote Bag|images/goyard_saint_louis_tote.jpg|Iconic flair. Goyard Saint
+Louis PM tote in timeless style.
 
-Sporty Backpack|images/deep_brown.jpg|Durable and versatile, suitable for travel and adventure.
+Bulgari Small Serpenti Leather Crossbody Bag|images/bulgari_small_serpenti.jpg|Striking elegance. Bold,
+luxe, and irresistibly chic.
 
-Quilted Chain Bag|images/denim_large.jpg|Iconic quilted design with gold chain strap.
+Rebecca Minkoff Mini MAC Crossbody Bag|images/minkoff_mini_mac.jpg|Compact cool. Effortlessly
+edgy.
 
-Messenger Bag|images/gold_chain.jpg|Practical and stylish, great for work or school.
+Balenciaga City Bag|images/balenciaga_city_bag.jpg|Street-style staple with luxe attitude.
 
-Title|images/leather_medium.jpg|Description.
+Marc by Marc Jacobs “Goodbye Columbus” bag|images/marc_goodbye_columbus.jpg/Vintage charm that blends retro flair with everyday ease.
 
-Title|images/pattern_gloss.jpg|Description.
+Fossil Knox PW Shopper|images/american_leather_triple_entry.jpg|Sleek leather shopper with roomy interior and classic Fossil style.
 
-Title|images/shiny_sleek.jpg|Description.
+American Leather Co. Lenox Triple Entry Satchel|images/american_leather_triple_entry.jpg|Chic, roomy and triple the function.
 
-Title|images/sinch_peach.jpg|Description.
+Fossil Parker Convertible Patchwork Backpack|images/fossil_patchwork.jpg|Chic and convertible. A go-to bag for every adventure.
 
-Title|images/small_green.jpg|Description.
+Coach Poppy Cinch Leather Drawstring Bucket Shoulder Bag|images/coach_poppy_cinch.jpg/Playful elegance to every outfit.
