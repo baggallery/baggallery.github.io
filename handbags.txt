@@ -1,21 +1,16 @@
-Coach Hampton Signature Purse|images/coach_hampton.jpg|Chic meets classic. Fabric logo with
-beige leather elegance.
+Coach Hampton Signature Purse|images/coach_hampton.jpg|Chic meets classic. Fabric logo with beige leather elegance.
 
-Coach Ergo Hobo Monogram Bag|images/coach_ergo.jpg|Sleek and timeless, hobo monogram
-style.
+Coach Ergo Hobo Monogram Bag|images/coach_ergo.jpg|Sleek and timeless, hobo monogram style.
 
-Goyard Goyardine Saint Louis PM Tote Bag|images/goyard_saint_louis_tote.jpg|Iconic flair. Goyard Saint
-Louis PM tote in timeless style.
+Goyard Goyardine Saint Louis PM Tote Bag|images/goyard_saint_louis_tote.jpg|Iconic flair. Goyard Saint Louis PM tote in timeless style.
 
-Bulgari Small Serpenti Leather Crossbody Bag|images/bulgari_small_serpenti.jpg|Striking elegance. Bold,
-luxe, and irresistibly chic.
+Bulgari Small Serpenti Leather Crossbody Bag|images/bulgari_small_serpenti.jpg|Striking elegance. Bold, luxe, and irresistibly chic.
 
-Rebecca Minkoff Mini MAC Crossbody Bag|images/minkoff_mini_mac.jpg|Compact cool. Effortlessly
-edgy.
+Rebecca Minkoff Mini MAC Crossbody Bag|images/minkoff_mini_mac.jpg|Compact cool. Effortlessly edgy.
 
 Balenciaga City Bag|images/balenciaga_city_bag.jpg|Street-style staple with luxe attitude.
 
-Marc by Marc Jacobs “Goodbye Columbus” bag|images/marc_goodbye_columbus.jpg/Vintage charm that blends retro flair with everyday ease.
+Marc by Marc Jacobs “Goodbye Columbus” bag|images/marc_goodbye_columbus.jpg|Vintage charm that blends retro flair with everyday ease.
 
 Fossil Knox PW Shopper|images/fossil_shopper.jpg|Sleek leather shopper with roomy interior and classic Fossil style.
 
@@ -23,4 +18,4 @@ American Leather Co. Lenox Triple Entry Satchel|images/american_leather_triple_e
 
 Fossil Parker Convertible Patchwork Backpack|images/fossil_patchwork.jpg|Chic and convertible. A go-to bag for every adventure.
 
-Coach Poppy Cinch Leather Drawstring Bucket Shoulder Bag|images/coach_poppy_cinch.jpg/Playful elegance to every outfit.
+Coach Poppy Cinch Leather Drawstring Bucket Shoulder Bag|images/coach_poppy_cinch.jpg|Playful elegance to every outfit.
