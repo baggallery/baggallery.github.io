@@ -66,7 +66,7 @@ h1 {
     border-radius: 8px; /* slight border radius for pop-up */
 }
 .footer {
-    background: linear-gradient(90deg, #222 0%, #444 100%);
+    background: #7a7d8a;
     color: #fff;
     text-align: center;
     padding: 1.5rem 0 1rem 0;
