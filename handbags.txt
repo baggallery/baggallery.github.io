@@ -19,3 +19,5 @@ American Leather Co. Lenox Triple Entry Satchel|images/american_leather_triple_e
 Fossil Parker Convertible Patchwork Backpack|images/fossil_patchwork.jpg|Chic and convertible. A go-to bag for every adventure.
 
 Coach Poppy Cinch Leather Drawstring Bucket Shoulder Bag|images/coach_poppy_cinch.jpg|Playful elegance to every outfit.
+
+This is just the beginning|images/more.png|More to come.
