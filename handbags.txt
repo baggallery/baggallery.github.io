@@ -22,6 +22,8 @@ Coach Poppy Cinch Leather Drawstring Bucket Shoulder Bag|images/coach_poppy_cinc
 
 Botkier Valentina Satchel|images/botkier_satchel.jpg|Outfit completed.
 
+Botkier New York Trigger Leather Nylon Mini Backpack|images/botkier_trigger.jpg|Compact, bold, and city-smart.
+
 Fossil Ryder Mini Satchel|images/fossil_mini_satchel.jpg|Petite perfection.
 
 Fossil Sydney Satchel|images/fossil_sydney_satchel.jpg|Compact, but never basic.
@@ -33,6 +35,8 @@ Fossil Drawstring Bucket Crossbody Bag|images/fossil_drawstring_bucket.jpg|Go-an
 Monsac Sling Bag|images/monsac_sling.jpg|From coffee runs to city stroll.
 
 Marc by Marc Jacobs Natasha Crossbody Bag|images/marc_natasha.jpg|Hands free, hassle free.
+
+Frye Vintage Backpack|images/frye_vintage.jpg|Rugged style meets commuter-ready function.
 
 Marc by Marc Jacobs Classic Q Natasha Crossbody|images/marc_classic_q.jpg|Soft leather, strong statement.
 
@@ -50,6 +54,8 @@ Agnes B. Tote Bag|images/agnes_tote.jpg|Parisian flair in every carry.
 
 Zara Canvas Shopper|images/zara_canvas_shopper.jpg|Canvas meets class.
 
+Rudsack Genuine Leather Backpack|images/rudsak_genuine.jpg|Sleek, durable, and built for the city grind.
+
 Miu Miu Leather Vitello Two Way Bag|images/miu_miu_vitello.jpg|Luxury in motion.
 
 Fossil Emma Tote|images/fossil_emma_tote.jpg|Built for busy days and bold moves.
@@ -64,13 +70,7 @@ Rebecca Minkoff MAB Satchel|images/minkoff_mab.jpg|Iconic and effortless.
 
 Coach Madison Satchel Bag|images/coach_madison.jpg|Spacious interior for daily use.
 
-Rudsack Genuine Leather Backpack|images/rudsak_genuine.jpg|Sleek, durable, and built for the city grind.
-
-Frye Vintage Backpack|images/frye_vintage.jpg|Rugged style meets commuter-ready function.
-
 Rebecca Minkoff Julian Nylon Backpack|images/minkoff_julian_nylon.jpg|Lightweight, edgy, and made to move.
-
-Botkier New York Trigger Leather Nylon Mini Backpack|images/botkier_trigger.jpg|Compact, bold, and city-smart.
 
 Roots Madison Backpack in Gray|images/roots_madison_gray.jpg|Sleek, simple, and ready to go.
 
