@@ -82,9 +82,9 @@ Fossil Brown Vintage Leather Backpack|images/fossil_brown_vintage.jpg|Backpack g
 
 Agnes B. Glossy Black Patent Shoulder Bag|images/Agnes B. Black Patent Leather Shoulder Bag.jpg|Glossy elegance in motion. Adds instant polish to any look.
 
-Agnes B. Nylon Handle Tote Bag|images|images/Agnes B. Voyage Nylon Tote Bag.jpg|Effortless chic meets everyday utility. Your go-to style companion.
+Agnes B. Nylon Handle Tote Bag|images/agnes_nylon.jpg|Effortless chic meets everyday utility. Your go-to style companion.
 
-B. Makowsky Black Leather Purse with Silver Trim|images/BMakaqwsky Black Leather Purse with Silver Trim.jpg|Sleek sophistication in every stitch. Timeless edge.
+B. Makowsky Black Leather Purse with Silver Trim|images/silver_trim.jpg|Sleek sophistication in every stitch. Timeless edge.
 
 Cellini Mini Shoulder Bag|images/Cellini.jpg|Petite in size, bold in style. Luxe everyday accent.
 
@@ -116,7 +116,7 @@ Fossil Jolie Leather Hobo Bag|images\Fossil Jolie Leather Hobo Bag in Black.jpg|
 
 Gironacci Black Leather Handbag|images\Gironacci Black Leather Handbag.jpg|A whisper of luxury, a roar of style.
 
-Kate Spade with Brown Floral Pattern|images\Kate Spade with Brown Floral Pattern.jpg|Patterned to perfection.
+Kate Spade with Brown Floral Pattern|images\Kate Spade Handbag with Brown Floral Pattern.jpg|Patterned to perfection.
 
 Kate Spade New York Camellia Street Amy Patent Leather|images\Kate Spade NY Camellia Street Amy crossbody bag patent.jpg|Small Bag, Big Charm.
 
@@ -128,7 +128,7 @@ Longchamp Le Pliage Original Tote Bag in Charcoal|images\Longchamp Le Pliage Ori
 
 Longchamp Le Pliage Club Tote Hawthorn|images\Longchamp Le Pliage Tote Bag in beige color.jpg|Parisian flair in every fold.
 
-Madewell The Piazza Crossbody Bag in Brown Leather|images\Madewell The Piazza Crossbody Bag in Tan Leather. jpg|Supple brown leather, sculptural silhouette, and effortless wearability.
+Madewell The Piazza Crossbody Bag in Brown Leather|images\Madewell The Piazza Crossbody Bag in Tan Leather.jpg|Supple brown leather, sculptural silhouette, and effortless wearability.
 
 Marc by Marc Jacobs Black Leather Crossbody Bag|images\Marc Jacobs Black Leather Crossbody Bag.jpg|Sleek. Structured. Always in Style.
 
@@ -136,7 +136,7 @@ Rebecca Minkoff Mini 5 Zip Crossbody Bag in Black|images\RM 5 Zip Crossbody Bag 
 
 Rebecca Minkoff Mini 5 Zip Crossbody Bag in Pink|images\RM 5 Zip Crossbody Bag Pink.jpg|Pretty in pink. Adds a playful pop to any outfit.
 
-Rebecca Minkoff Chevron Quilted Love Crossbody Bag in Beige|images\RM Chervil Quilted Love Crossbody Bag Beige.jpg|Turn heads with timeless texture. Ultimate day-to-night companion.
+Rebecca Minkoff Chevron Quilted Love Crossbody Bag in Beige|images\rm_quilted_love.jpg|Turn heads with timeless texture. Ultimate day-to-night companion.
 
 Rebecca Minkoff Chevron Quilted Love Crossbody Bag in Black|images\RM Chevron Quilted Love Crossbody Bag Black.jpg|Where luxury meets everyday chic.  Does not just accessorize, it elevates.
 
@@ -150,7 +150,7 @@ Rebecca Minkoff Micro Regan Satchel in Grey|images\RM Micro Regan Satchel Grey.j
 
 Rebecca Minkoff Micro Regan Satchel in Dark Blue|images\RM Micro Regan Satchel in Black.jpg|Go-to for handsfree glam.
 
-Rebecca Minkoff Mini MAC Bag in Navy Blue with Gold Hardware|images\RM Mini MAC Crossbody Bag in Dark Blue with Gold Hardware.jpg|Classic, chick, and finished with luxe gold accents.
+Rebecca Minkoff Mini MAC Bag in Navy Blue with Gold Hardware|images\minkoff_mini_mac.jpg|Classic, chick, and finished with luxe gold accents.
 
 Rebecca Minkoff Mini MAC in White with Gold Hardware|images/RM Mini Mac White.jpg|Minimalist vibes, maximum impact.
 
@@ -162,7 +162,7 @@ Tumi Crescent Shoulder Handbag|images\Tumi Crescent Shoulder Bag.jpg|Crescent cu
 
 Tumi Voyageur Q Nylon Tote Bag in Baltic Blue|images\Tumi Voyageur Q-Tote Nylon Bag in Baltic Blue.jpg|Spacious, structured, and effortlessly chic.  Designed for life on the move.
 
-Vintage Coach Ego Pleated Leather Kisslock Satchel|Images\Vintage Coach Ergo Pleated Leather Kisslock Satchel.jpg|A nod to retro glamour. Features a structured silhouette and buttery leather that ages beautifully.
+Vintage Coach Ego Pleated Leather Kisslock Satchel|images\vintage_coach.jpg|A nod to retro glamour. Features a structured silhouette and buttery leather that ages beautifully.
 
 Vintage Flavi Vismano Front Pocket Crossbody Bag|images\Vintage Postman Pouch Red.jpg|Vintage leather, Italian soul. Gives quiet luxury vibes. 
 
