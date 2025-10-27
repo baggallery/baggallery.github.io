@@ -50,8 +50,6 @@ Michael Kors Jet Set Logo Monogram Tote Bag|images/kors_monogram_tote.jpg|Where 
 
 Fossil Brown Leather Tote|images/fossil_brown_leather_tote.jpg|Brown, Bold, Beautiful.
 
-Agnes B. Tote Bag|images/agnes_tote.jpg|Parisian flair in every carry.
-
 Zara Canvas Shopper|images/zara_canvas_shopper.jpg|Canvas meets class.
 
 Rudsack Genuine Leather Backpack|images/rudsak_genuine.jpg|Sleek, durable, and built for the city grind.
@@ -73,8 +71,6 @@ Rebecca Minkoff MAB Satchel|images/minkoff_mab.jpg|Iconic and effortless.
 Coach Madison Satchel Bag|images/coach_madison.jpg|Spacious interior for daily use.
 
 Roots Madison Backpack in Gray|images/roots_madison_gray.jpg|Sleek, simple, and ready to go.
-
-Coach Medium Charlie Backpack|images/coach_charlie.jpg|Carry confidence.
 
 Roots Raider Gray Leather Backpack|images/roots_raider_gray.jpg|Urban edge in every stitch.
 
