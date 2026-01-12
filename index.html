@@ -28,9 +28,12 @@
     </section>
     <footer class="footer">
         <div class="footer-content">
-            <span>&copy; 2025 Maria Carlos. All rights reserved.</span>
+            <span>&copy; <span id="copyright-year"></span> Maria Carlos. All rights reserved.</span>
         </div>
     </footer>
     <script src="script.js"></script>
+    <script>
+        const yearSpan = document.getElementById("copyright-year"); yearSpan.textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>
